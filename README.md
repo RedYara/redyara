@@ -1,1 +1,15 @@
-![Metrics](https://metrics.lecoq.io/redyara?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
+[!redyara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redyara&count_private=true&show_icons=true&theme=buefy)](https://github.com/redyara)
+[!redyara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redyarah&layout=compact&theme=buefy)](https://github.com/redyara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redyara&layout=compact&theme=buefy)](https://github.com/redyara)
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/redyara/redyara/blob/main/github-metrics.svg">](https://github.com/redyara/redyara)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/redyara/redyara/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/redyara/redyara/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true) -->
+
+<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-redyara.vercel.app/now-playing">](https://now-playing-66mfrri4j-redyara.vercel.app/now-playing?open) -->
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
